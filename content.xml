@@ -1,0 +1,2173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050516434417YTDV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505164344Z0T88X</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA ¿Quién gana el juego del mercado? </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Economía 1º Bachillerato </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Esperanza Martín </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non derived work - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-nd/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777906745991</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-morbrstb-5aqqk1caa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SA 4. ¿Quién gana el juego del mercado?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA 4. ¿Quién gana el juego del mercado?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA 4. ¿Quién gana el juego del mercado?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SA 4. ¿Quién gana el juego del mercado?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrstb-5aqqk1caa</odePageId>
+      <odeBlockId>block-1777973995918-injq6t1cw</odeBlockId>
+      <blockName>Portada SA 4</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrstb-5aqqk1caa</odePageId>
+          <odeBlockId>block-1777973995918-injq6t1cw</odeBlockId>
+          <odeIdeviceId>idevice-1777973995917-mbjwrgr93</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_74csxc74csxc74cs.png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Esperanza Martín González </span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong>¿Alguna vez te has preguntado por qué el precio de los hoteles sube en verano? ¿O por qué las consolas de última generación son tan difíciles de conseguir y tan caras cuando acaban de salir?</strong> La respuesta no es un misterio, sino el resultado de un baile constante entre dos fuerzas invisibles que mueven el mundo: la oferta y la demanda.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777973995917-mbjwrgr93","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_74csxc74csxc74cs.png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Esperanza Martín González </span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong>¿Alguna vez te has preguntado por qué el precio de los hoteles sube en verano? ¿O por qué las consolas de última generación son tan difíciles de conseguir y tan caras cuando acaban de salir?</strong> La respuesta no es un misterio, sino el resultado de un baile constante entre dos fuerzas invisibles que mueven el mundo: la oferta y la demanda.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsti-32susujtw</odePageId>
+  <odeParentPageId>page-morbrstb-5aqqk1caa</odeParentPageId>
+  <pageName>Guía didáctica: ¿Quién gana el juego del mercado?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica: ¿Quién gana el juego del mercado?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica: ¿Quién gana el juego del mercado?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica: ¿Quién gana el juego del mercado?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsti-32susujtw</odePageId>
+      <odeBlockId>block-1777905542797-s00ofwlr5</odeBlockId>
+      <blockName>Presentación guía didáctica</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsti-32susujtw</odePageId>
+          <odeBlockId>block-1777905542797-s00ofwlr5</odeBlockId>
+          <odeIdeviceId>idevice-1777905542795-uw0rsa6k1</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="1276" style="width: 20%; height: 400px;"><caption title="Guía didáctica .pdf">
+<figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.47.15.png" width="500" height="300" alt="">
+<figcaption class="figcaption"><span class="author">Esperanza Martín González </span>. <span class="title"><em>Guía </em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+Pincha en: <a href="{{context_path}}/content/resources/Guía didáctica .pdf" download="Guía didáctica .pdf" title="Guía didáctica .pdf">Guía didáctica </a>Información general sobre este recurso educativo.&nbsp;</caption>
+<tbody>
+<tr>
+<th style="width: 18.6785%;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA ¿Quién gana el juego del mercado? </span></td>
+</tr>
+<tr>
+<th style="width: 18.6785%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 18.6785%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Esperanza Martín </span></td>
+</tr>
+<tr>
+<th style="width: 18.6785%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non derived work - non commercial 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrsti-32susujtw</odePageId>
+      <odeBlockId>block-1777974593197-5teq6f4et</odeBlockId>
+      <blockName>Criterios de evaluación por actividad (guía didáctica)</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsti-32susujtw</odePageId>
+          <odeBlockId>block-1777974593197-5teq6f4et</odeBlockId>
+          <odeIdeviceId>idevice-1777974593196-wrb66uda4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1198px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.34.49.png" width="1198" height="1270" alt="" />
+<figcaption class="figcaption"><span class="author">Esperanza Martín González </span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777974593196-wrb66uda4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1198px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.34.49.png\" width=\"1198\" height=\"1270\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Esperanza Martín González </span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrstm-nl6yj88zu</odePageId>
+  <odeParentPageId>page-morbrstb-5aqqk1caa</odeParentPageId>
+  <pageName>¿Cómo puedo hacer un buen uso de la información?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo puedo hacer un buen uso de la información?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo puedo hacer un buen uso de la información? </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo puedo hacer un buen uso de la información?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrstm-nl6yj88zu</odePageId>
+      <odeBlockId>block-1777563180618-0y3bbpup6</odeBlockId>
+      <blockName>Introducción: Protección de datos.</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrstm-nl6yj88zu</odePageId>
+          <odeBlockId>block-1777563180618-0y3bbpup6</odeBlockId>
+          <odeIdeviceId>idevice-1777563180617-unkc1txa4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A la hora de utilizar información es necesario que tengáis en cuenta esta información: </p>
+<p style="text-align: center;"><strong>Guía Rápida: Licencias y Seguridad Digital</strong><br /><strong></strong></p>
+<p style="text-align: left;"><strong>1. Uso de materiales y Licencias Para usar recursos de internet de forma segura, fíjate siempre en su licencia:</strong></p>
+<p> <strong>Copyright: </strong>No puedes usar estos recursos sin mencionar a su autor.</p>
+<p><strong>Creative Commons (CC BY-NC-ND):</strong> Puedes usar el material si cumples tres normas: hacer referencia al autor (BY) , no usarlo con fines comerciales (NC) y usarlo de forma literal, sin modificaciones (ND).</p>
+<p><strong>Buenas prácticas:</strong> Asegúrate de que los materiales sean originales , cita bien todo lo que uses e informa a los demás sobre el uso del material que tú compartes.</p>
+<p> <br /><strong>2. Protege tus Datos Personales</strong></p>
+<p>No compartas datos personales y cuida mucho lo que compartes en las redes sociales.</p>
+<p> <br />Usa contraseñas seguras y diferentes para cada cuenta. Protege también el acceso a tus archivos personales con contraseñas seguras. Activa la verificación en dos pasos.</p>
+<p> <br /><strong>3. ¿Qué hacer si tienes un problema en internet? I</strong>nternet es un espacio para aprender a expresarte de forma segura y responsable. Si recibes mensajes de acoso o amenaza:</p>
+<ul>
+<li>No respondas a esos mensajes.</li>
+<li>Informa de ello.</li>
+<li>Habla con un adulto de confianza o profesor sobre lo ocurrido.</li>
+</ul>
+<p>TIENES UNA INFOGRAFÍA CON TODA ESTA INFORMACIÓN</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777563180617-unkc1txa4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A la hora de utilizar información es necesario que tengáis en cuenta esta información: </p>\n<p style=\"text-align: center;\"><strong>Guía Rápida: Licencias y Seguridad Digital</strong><br /><strong></strong></p>\n<p style=\"text-align: left;\"><strong>1. Uso de materiales y Licencias Para usar recursos de internet de forma segura, fíjate siempre en su licencia:</strong></p>\n<p> <strong>Copyright: </strong>No puedes usar estos recursos sin mencionar a su autor.</p>\n<p><strong>Creative Commons (CC BY-NC-ND):</strong> Puedes usar el material si cumples tres normas: hacer referencia al autor (BY) , no usarlo con fines comerciales (NC) y usarlo de forma literal, sin modificaciones (ND).</p>\n<p><strong>Buenas prácticas:</strong> Asegúrate de que los materiales sean originales , cita bien todo lo que uses e informa a los demás sobre el uso del material que tú compartes.</p>\n<p> <br /><strong>2. Protege tus Datos Personales</strong></p>\n<p>No compartas datos personales y cuida mucho lo que compartes en las redes sociales.</p>\n<p> <br />Usa contraseñas seguras y diferentes para cada cuenta. Protege también el acceso a tus archivos personales con contraseñas seguras. Activa la verificación en dos pasos.</p>\n<p> <br /><strong>3. ¿Qué hacer si tienes un problema en internet? I</strong>nternet es un espacio para aprender a expresarte de forma segura y responsable. Si recibes mensajes de acoso o amenaza:</p>\n<ul>\n<li>No respondas a esos mensajes.</li>\n<li>Informa de ello.</li>\n<li>Habla con un adulto de confianza o profesor sobre lo ocurrido.</li>\n</ul>\n<p>TIENES UNA INFOGRAFÍA CON TODA ESTA INFORMACIÓN</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrstm-nl6yj88zu</odePageId>
+      <odeBlockId>block-1777562797390-ezkxdg335</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS: LICENCIAS CREATIVE COMMONS</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrstm-nl6yj88zu</odePageId>
+          <odeBlockId>block-1777562797390-ezkxdg335</odeBlockId>
+          <odeIdeviceId>idevice-1777562797387-dyvrurl24</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="775" border="200" style="width: 50px; height: 200px; margin-left: auto; margin-right: auto;"><caption title="2.3. INFOGRAFIA ESPERANZA MARTIN .pdf"><a href="{{context_path}}/content/resources/2.3. INFOGRAFIA ESPERANZA MARTIN .pdf" download="2.3. INFOGRAFIA ESPERANZA MARTIN .pdf" title="2.3. INFOGRAFIA ESPERANZA MARTIN .pdf">Pincha para ver la infografía: PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DE SEGURIDAD </a>
+<figure class="exe-figure position-center" style="width: 300px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 17.24.32.png" width="300" height="157" alt="">
+<figcaption class="figcaption"><a href="Google " class="author" target="_blank" rel="noopener">Creative Commons </a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 18.6148%;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA ¿Quién gana el juego del mercado? </span></td>
+</tr>
+<tr>
+<th style="width: 18.6148%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 18.6148%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Esperanza Martín </span></td>
+</tr>
+<tr>
+<th style="width: 18.6148%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non derived work - non commercial 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#cb76c8;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrstt-q7e7imwzt</odePageId>
+  <odeParentPageId>page-morbrstb-5aqqk1caa</odeParentPageId>
+  <pageName>Nuestro Producto final: ¿Quién gana el juego del mercado?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro Producto final: ¿Quién gana el juego del mercado?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro Producto final: ¿Quién gana el juego del mercado? </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nuestro Producto final: ¿Quién gana el juego del mercado?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrstt-q7e7imwzt</odePageId>
+      <odeBlockId>block-1777566977954-k4ua6eg3i</odeBlockId>
+      <blockName>Guía Producto final: presentación</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrstt-q7e7imwzt</odePageId>
+          <odeBlockId>block-1777566977954-k4ua6eg3i</odeBlockId>
+          <odeIdeviceId>idevice-1777566977953-l9aqvp8ts</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption title="Market_Intelligence_Mission.pdf">
+<figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/imagen .png" width="500" height="274" alt="">
+<figcaption class="figcaption"><span class="author">Esperanza Martín</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<a href="{{context_path}}/content/resources/PRESENTACION PF .pdf" download="PRESENTACION PF .pdf" title="Market_Intelligence_Mission.pdf">Pincha para acceder a la guía PF</a>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA ¿Quién gana el juego del mercado? </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Esperanza Martín </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non derived work - non commercial 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrstt-q7e7imwzt</odePageId>
+      <odeBlockId>block-1777563615475-af9z5ut70</odeBlockId>
+      <blockName>Descripción del producto final</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrstt-q7e7imwzt</odePageId>
+          <odeBlockId>block-1777563615475-af9z5ut70</odeBlockId>
+          <odeIdeviceId>idevice-1777563615472-spr6ypo9v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Guía del Estudiante: ¿Quién gana el juego del mercado?</strong></p>
+<p style="text-align: justify;"><strong>Vuestra misión: </strong>El objetivo de este proyecto es entender cómo se determinan los precios en el mercado y los factores que influyen en ellos, así como analizar los cambios en los hábitos de consumo. Como producto final, deberéis resolver el reto planteado analizando el aumento de productos de segunda mano en plataformas digitales frente a los productos tradicionales.</p>
+<p style="text-align: justify;">Para ello, trabajaréis en equipo y elaboraréis una campaña de concienciación utilizando datos reales que vosotros mismos vais a recopilar.</p>
+<p style="text-align: justify;">Pasos para elaborar vuestro producto final</p>
+<p style="text-align: justify;"><strong>1. Investigación y preparación:</strong> formad vuestros equipos y organizad el trabajo colaborativo. Antes de buscar datos, aseguraros de comprender los factores que influyen en la oferta y demanda. Tened claros los conceptos teóricos para poder distinguir entre movimientos y desplazamientos de las curvas.</p>
+<p style="text-align: justify;"><strong>2. Creación del cuestionario (Google Forms):</strong> utilizad la plataforma gratuita Google Forms para elaborar una encuesta dirigida a vuestros compañeros del centro. Debéis redactar preguntas claras para investigar cómo han cambiado sus hábitos de compra en los últimos años. Preguntad sobre su uso de tiendas tradicionales frente a plataformas de segunda mano.</p>
+<p style="text-align: justify;"><strong>3. Trabajo de campo y recopilación de datos:</strong> Compartid el enlace de vuestra encuesta con el mayor número posible de alumnos del centro para obtener información real sobre sus hábitos de consumo. Una vez cerrada la encuesta, descargad y revisad los gráficos de respuestas generados por la plataforma.</p>
+<p style="text-align: justify;"><strong>4. Análisis económico:</strong> con los datos sobre la mesa, interpretad los resultados aplicando la teoría económica. Debéis valorar las diferentes situaciones que afectan al equilibrio de mercado basándoos en la información real que habéis recopilado.</p>
+<p style="text-align: justify;"><strong>5. Diseño de la campaña (Genially o Canva): </strong>utilizando toda la información recopilada, diseñad una presentación visual e interactiva simulando una campaña de concienciación sobre el consumo responsable o el mercado de segunda mano. Esta presentación servirá para comunicar vuestras conclusiones y dar respuesta al reto inicial.</p>
+<p style="text-align: justify;"><strong>6. Revisión de requisitos obligatorios:</strong> antes de dar por terminada la presentación, verificad que vuestra campaña incluye claramente los siguientes tres puntos clave:</p>
+<ul>
+<li style="text-align: justify;">Explicación de los factores de la oferta y demanda.</li>
+<li style="text-align: justify;">Análisis de los cambios en los hábitos de consumo.</li>
+<li style="text-align: justify;">Conclusiones argumentadas sobre el equilibrio de mercado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777563615472-spr6ypo9v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Guía del Estudiante: ¿Quién gana el juego del mercado?</strong></p>\n<p style=\"text-align: justify;\"><strong>Vuestra misión: </strong>El objetivo de este proyecto es entender cómo se determinan los precios en el mercado y los factores que influyen en ellos, así como analizar los cambios en los hábitos de consumo. Como producto final, deberéis resolver el reto planteado analizando el aumento de productos de segunda mano en plataformas digitales frente a los productos tradicionales.</p>\n<p style=\"text-align: justify;\">Para ello, trabajaréis en equipo y elaboraréis una campaña de concienciación utilizando datos reales que vosotros mismos vais a recopilar.</p>\n<p style=\"text-align: justify;\">Pasos para elaborar vuestro producto final</p>\n<p style=\"text-align: justify;\"><strong>1. Investigación y preparación:</strong> formad vuestros equipos y organizad el trabajo colaborativo. Antes de buscar datos, aseguraros de comprender los factores que influyen en la oferta y demanda. Tened claros los conceptos teóricos para poder distinguir entre movimientos y desplazamientos de las curvas.</p>\n<p style=\"text-align: justify;\"><strong>2. Creación del cuestionario (Google Forms):</strong> utilizad la plataforma gratuita Google Forms para elaborar una encuesta dirigida a vuestros compañeros del centro. Debéis redactar preguntas claras para investigar cómo han cambiado sus hábitos de compra en los últimos años. Preguntad sobre su uso de tiendas tradicionales frente a plataformas de segunda mano.</p>\n<p style=\"text-align: justify;\"><strong>3. Trabajo de campo y recopilación de datos:</strong> Compartid el enlace de vuestra encuesta con el mayor número posible de alumnos del centro para obtener información real sobre sus hábitos de consumo. Una vez cerrada la encuesta, descargad y revisad los gráficos de respuestas generados por la plataforma.</p>\n<p style=\"text-align: justify;\"><strong>4. Análisis económico:</strong> con los datos sobre la mesa, interpretad los resultados aplicando la teoría económica. Debéis valorar las diferentes situaciones que afectan al equilibrio de mercado basándoos en la información real que habéis recopilado.</p>\n<p style=\"text-align: justify;\"><strong>5. Diseño de la campaña (Genially o Canva): </strong>utilizando toda la información recopilada, diseñad una presentación visual e interactiva simulando una campaña de concienciación sobre el consumo responsable o el mercado de segunda mano. Esta presentación servirá para comunicar vuestras conclusiones y dar respuesta al reto inicial.</p>\n<p style=\"text-align: justify;\"><strong>6. Revisión de requisitos obligatorios:</strong> antes de dar por terminada la presentación, verificad que vuestra campaña incluye claramente los siguientes tres puntos clave:</p>\n<ul>\n<li style=\"text-align: justify;\">Explicación de los factores de la oferta y demanda.</li>\n<li style=\"text-align: justify;\">Análisis de los cambios en los hábitos de consumo.</li>\n<li style=\"text-align: justify;\">Conclusiones argumentadas sobre el equilibrio de mercado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrstt-q7e7imwzt</odePageId>
+      <odeBlockId>block-1777566840131-k5onzzmwf</odeBlockId>
+      <blockName>Rúbrica PF</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrstt-q7e7imwzt</odePageId>
+          <odeBlockId>block-1777566840131-k5onzzmwf</odeBlockId>
+          <odeIdeviceId>idevice-1777565595576-41d165akp</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777565595576-41d165akp%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20de%20conceptos%20econ%F3micos%20%28oferta%2C%20demanda%2C%20equilibrio%29%22%2C%22An%E1lisis%20de%20la%20realidad%20%28caso%20Vinted/Wallapop%29%22%2C%22Uso%20de%20gr%E1ficas%20%28curvas%20de%20oferta%20y%20demanda%29%22%2C%22Aplicaci%F3n%20de%20factores%20%28precio%2C%20h%E1bitos%2C%20etc.%29%22%2C%22Reflexi%F3n%20y%20pensamiento%20cr%EDtico%20%22%2C%22Trabajo%20en%20equipo%22%2C%22Presentaci%F3n%20final%20%28Google%20Slides%20u%20otro%29%22%2C%22Uso%20de%20herramientas%20digitales%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Notale%20%22%2C%22Aprobado%20%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Explica%20con%20claridad%20y%20profundidad%20todos%20los%20conceptos%2C%20usando%20vocabulario%20t%E9cnico%20correcto%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Explica%20correctamente%20la%20mayor%EDa%20de%20conceptos%20con%20alg%FAn%20error%20menor%20%281.2%29%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Comprende%20lo%20b%E1sico%20pero%20con%20errores%20o%20falta%20de%20precisici%F3n%20%281.3%29%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20comprende%20los%20conceptos%20o%20los%20confunde%20%281.4%29%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Analiza%20de%20forma%20cr%EDtica%20y%20bien%20argumentada%20los%20cambios%20en%20el%20mercado%20%282.1%29%22%7D%2C%7B%22weight%22%3A%221%2C5%22%2C%22text%22%3A%22Analiza%20correctamente%20pero%20con%20menor%20profundidadscriptor%20%282.2%29%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22An%E1lisis%20simple%2C%20poco%20desarrollado%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20analiza%20o%20lo%20hace%20de%20forma%20incorrecta%20%282.4%29%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Representa%20correctamente%20y%20explica%20desplazamientos%20y%20equilibrio%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Representa%20bien%20con%20peque%F1os%20fallos%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Representaci%F3n%20b%E1sica%2C%20con%20errores%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20sabe%20representar%20o%20interpretar%20gr%E1ficas%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Identifica%20y%20relaciona%20m%FAltiples%20factores%20con%20claridad%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Identifica%20varios%20factores%20correctamente%20%284.2%29%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Identifica%20algunos%20factores%20sin%20profundidad%20%284.3%29%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Identifica%20algunos%20factores%20sin%20profundidad%20%284.4%29%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Reflexi%F3n%20profunda%2C%20bien%20argumentada%20y%20original%22%7D%2C%7B%22weight%22%3A%221%2C5%22%2C%22text%22%3A%22Reflexi%F3n%20adecuada%20pero%20poco%20desarrollada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Reflexi%F3n%20simple%20o%20poco%20clara%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20hay%20reflexi%F3n%20%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Participaci%F3n%20activa%2C%20colaboraci%F3n%20excelente%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Buena%20colaboraci%F3n%20con%20el%20grupo%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Participaci%F3n%20irregular%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20colabora%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Muy%20clara%2C%20creativa%2C%20bien%20estructurada%20y%20visua%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Clara%20y%20organizada%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Presentaci%F3n%20b%E1sica%20%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20hay%20presentaci%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Uso%20excelente%20y%20aut%F3nomo%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Uso%20adecuado%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Uso%20b%E1sico%20%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20utiliza%20correctamen%20te%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20de%20conceptos%20econ%F3micos%20%28oferta%2C%20demanda%2C%20equilibrio%29%22%2C%22An%E1lisis%20de%20la%20realidad%20%28caso%20Vinted/Wallapop%29%22%2C%22Uso%20de%20gr%E1ficas%20%28curvas%20de%20oferta%20y%20demanda%29%22%2C%22Aplicaci%F3n%20de%20factores%20%28precio%2C%20h%E1bitos%2C%20etc.%29%22%2C%22Reflexi%F3n%20y%20pensamiento%20cr%EDtico%20%22%2C%22Trabajo%20en%20equipo%22%2C%22Presentaci%F3n%20final%20%28Google%20Slides%20u%20otro%29%22%2C%22Uso%20de%20herramientas%20digitales%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Notale%20%22%2C%22Aprobado%20%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Explica%20con%20claridad%20y%20profundidad%20todos%20los%20conceptos%2C%20usando%20vocabulario%20t%E9cnico%20correcto%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Explica%20correctamente%20la%20mayor%EDa%20de%20conceptos%20con%20alg%FAn%20error%20menor%20%281.2%29%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Comprende%20lo%20b%E1sico%20pero%20con%20errores%20o%20falta%20de%20precisici%F3n%20%281.3%29%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20comprende%20los%20conceptos%20o%20los%20confunde%20%281.4%29%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Analiza%20de%20forma%20cr%EDtica%20y%20bien%20argumentada%20los%20cambios%20en%20el%20mercado%20%282.1%29%22%7D%2C%7B%22weight%22%3A%221%2C5%22%2C%22text%22%3A%22Analiza%20correctamente%20pero%20con%20menor%20profundidadscriptor%20%282.2%29%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22An%E1lisis%20simple%2C%20poco%20desarrollado%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20analiza%20o%20lo%20hace%20de%20forma%20incorrecta%20%282.4%29%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Representa%20correctamente%20y%20explica%20desplazamientos%20y%20equilibrio%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Representa%20bien%20con%20peque%F1os%20fallos%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Representaci%F3n%20b%E1sica%2C%20con%20errores%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20sabe%20representar%20o%20interpretar%20gr%E1ficas%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Identifica%20y%20relaciona%20m%FAltiples%20factores%20con%20claridad%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Identifica%20varios%20factores%20correctamente%20%284.2%29%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Identifica%20algunos%20factores%20sin%20profundidad%20%284.3%29%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Identifica%20algunos%20factores%20sin%20profundidad%20%284.4%29%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Reflexi%F3n%20profunda%2C%20bien%20argumentada%20y%20original%22%7D%2C%7B%22weight%22%3A%221%2C5%22%2C%22text%22%3A%22Reflexi%F3n%20adecuada%20pero%20poco%20desarrollada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Reflexi%F3n%20simple%20o%20poco%20clara%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20hay%20reflexi%F3n%20%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Participaci%F3n%20activa%2C%20colaboraci%F3n%20excelente%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Buena%20colaboraci%F3n%20con%20el%20grupo%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Participaci%F3n%20irregular%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20colabora%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Muy%20clara%2C%20creativa%2C%20bien%20estructurada%20y%20visua%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Clara%20y%20organizada%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Presentaci%F3n%20b%E1sica%20%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20hay%20presentaci%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Uso%20excelente%20y%20aut%F3nomo%22%7D%2C%7B%22weight%22%3A%220%2C75%22%2C%22text%22%3A%22Uso%20adecuado%22%7D%2C%7B%22weight%22%3A%220%2C5%22%2C%22text%22%3A%22Uso%20b%E1sico%20%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20utiliza%20correctamen%20te%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Elaboraci%F3n%20propia%20%22%2C%22license%22%3A%22pd%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Elaboración propia </span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> <span class="license">(Dominio público)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsty-yxm6sqb6c</odePageId>
+  <odeParentPageId>page-morbrstb-5aqqk1caa</odeParentPageId>
+  <pageName>Nos organizamos en la SA 4: Línea temporal </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos organizamos en la SA 4: Línea temporal </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos organizamos en la SA 4: Línea temporal </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsty-yxm6sqb6c</odePageId>
+      <odeBlockId>block-1777974849383-vh7ls6u7s</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsty-yxm6sqb6c</odePageId>
+          <odeBlockId>block-1777974849383-vh7ls6u7s</odeBlockId>
+          <odeIdeviceId>idevice-1777974849382-ulb3l8wug</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Actividad mapa mental.png" width="1440" height="1229" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777974849382-ulb3l8wug","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Actividad mapa mental.png\" width=\"1440\" height=\"1229\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsu0-mirvnlmgh</odePageId>
+  <odeParentPageId>page-morbrstb-5aqqk1caa</odeParentPageId>
+  <pageName>Vídeos y materiales de apoyo sobre la Oferta y Demanda</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vídeos y materiales de apoyo sobre la Oferta y Demanda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vídeos y materiales de apoyo sobre la Oferta y Demanda </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Vídeos y materiales de apoyo sobre la Oferta y Demanda</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsu0-mirvnlmgh</odePageId>
+      <odeBlockId>block-1777564346369-neaq6ih8r</odeBlockId>
+      <blockName>Oferta y Demanda materiales de apoyo</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsu0-mirvnlmgh</odePageId>
+          <odeBlockId>block-1777564346369-neaq6ih8r</odeBlockId>
+          <odeIdeviceId>idevice-1777564346365-lqhf0pc91</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/emargon136/economia-1-bachillerato-uucqnce6lk1k77f1" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrsu0-mirvnlmgh</odePageId>
+      <odeBlockId>block-1777564945002-tavdkqpxh</odeBlockId>
+      <blockName>¿Donde puedo buscar información?: Escanea el código QR</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsu0-mirvnlmgh</odePageId>
+          <odeBlockId>block-1777564945002-tavdkqpxh</odeBlockId>
+          <odeIdeviceId>idevice-1777564944999-phi1hwp68</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777564944999-phi1hwp68" title="" href="{{context_path}}/content/resources/qr-code.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/qr-code.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777564944999-phi1hwp68","img_0":{"img":"{{context_path}}/content/resources/qr-code.png","thumbnail":"{{context_path}}/content/resources/qr-code.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsu3-liubtjvmz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades SA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades SA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades SA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades SA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsu6-ynsvqy0ng</odePageId>
+  <odeParentPageId>page-morbrsu3-liubtjvmz</odeParentPageId>
+  <pageName>Actividad 1: La demanda.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: La demanda.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: La demanda. Actividad reflexión ¿Cómo funciona el mercado?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 1: La demanda.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsu6-ynsvqy0ng</odePageId>
+      <odeBlockId>block-1777567279278-hdrhxzil0</odeBlockId>
+      <blockName>Actividad 1: La demanda</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsu6-ynsvqy0ng</odePageId>
+          <odeBlockId>block-1777567279278-hdrhxzil0</odeBlockId>
+          <odeIdeviceId>idevice-1777567279276-0n6l7bs4q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC0" style="width: 560px;">
+<figcaption class="figcaption header"><strong>Factores que influyen en la demanda </strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/e1buI6IFJy8?si=0p3wf09Wl6Tvj9ZS" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="Youtube " target="_blank" class="author" rel="noopener">Javier Econosublime </a>. <span class="title"><em>Factores que influyen en la demanda </em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Actividad reflexión ¿Cómo funciona el mercado?: Búsqueda de información en internet y elaboración de un canva sobre los factores que afecta a la demanda. </p>
+<p><br /></p>
+<p style="text-align: justify;">Criterio de evaluación: 2.2. Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777567279276-0n6l7bs4q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>Factores que influyen en la demanda </strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/e1buI6IFJy8?si=0p3wf09Wl6Tvj9ZS\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"Youtube \" target=\"_blank\" class=\"author\" rel=\"noopener\">Javier Econosublime </a>. <span class=\"title\"><em>Factores que influyen en la demanda </em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Actividad reflexión ¿Cómo funciona el mercado?: Búsqueda de información en internet y elaboración de un canva sobre los factores que afecta a la demanda. </p>\n<p><br /></p>\n<p style=\"text-align: justify;\">Criterio de evaluación: 2.2. Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsu8-v5oqi2d21</odePageId>
+  <odeParentPageId>page-morbrsu6-ynsvqy0ng</odeParentPageId>
+  <pageName>Actividad refuerzo (DUA) demanda </pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad refuerzo (DUA) demanda </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad refuerzo (DUA) demanda </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsu8-v5oqi2d21</odePageId>
+      <odeBlockId>block-1777876195141-m7pq4qlrd</odeBlockId>
+      <blockName>Actividad refuerzo demanda</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsu8-v5oqi2d21</odePageId>
+          <odeBlockId>block-1777876195141-m7pq4qlrd</odeBlockId>
+          <odeIdeviceId>idevice-1777876195139-c8awjttcp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC0" style="width: 560px;" id="fig_ogdrsswri">
+<figcaption class="figcaption header"><strong>Movimientos y desplazamientos en la demanda </strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/Z3mz5k3wnHc?si=TCOTOgnhBv8INtJc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="Youtube " target="_blank" class="author" rel="noopener">Javier Econosublime </a>. <span class="title"><em>Movimientos y desplazamientos en la demanda </em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Realiza la siguiente actividad sobre los cambios en la demanda </p>
+<p>En esta actividad vamos a explicar a cómo afectan los siguientes hechos a la curva de demanda (abajo tienes instrucciones y el caso 0 resuelto.</p>
+<p>CASO 0. La gente empieza a tomar más café por recomendación de los médicos. Explica qué ocurre con la demanda de café.</p>
+<p>CASO 1. El diésel está subiendo mucho de precio en los últimos años. Explica qué ocurre con la demanda de coches que utilizan diésel.</p>
+<p>CASO 2. Se ha realizado una fuerte campaña para concienciar a la población de la gran importancia de echarse protector solar a la hora de tomar el sol, pues así se consigue evitar el desarrollo de distintas enfermedades. Explica qué ocurre con la demanda de cremas solares.</p>
+<p>CASO 3. La población está viendo que la economía no va bien, y cree que el país va a sumergirse en una profunda crisis. Explica qué ocurre con la demanda de pisos.</p>
+<p>CASO 4. Una tienda de ropa baja los precios un fin de semana y ve que vende mucho más. Explica qué ocurre con la demanda de ropa.</p>
+<p>CASO 5. Cuando el precio del tren aumenta, la gente usa más el autobús. Explica qué ocurre con la demanda de autobuses.</p>
+<p>CASO 6. En Málaga están abriendo importantes sedes de empresas tecnológicas, lo que está creando numerosos puestos de trabajo, haciendo que mucha gente se mude a esta ciudad tras ser contratada en dichas empresas. Explica qué ocurre con la demanda de viviendas en Málaga.</p>
+<p>CASO 7. Has encontrado un trabajo por horas que te permite duplicar tus ingresos mensuales. Explica qué ocurre con la demanda de patatas, un bien que consideras normal.v</p>
+<p>CASO 8. Has encontrado un trabajo por horas que te permite duplicar tus ingresos mensuales. Explica qué ocurre con la demanda de patatas, un bien que consideras inferior.</p>
+<p> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777876195139-c8awjttcp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 560px;\" id=\"fig_ogdrsswri\">\n<figcaption class=\"figcaption header\"><strong>Movimientos y desplazamientos en la demanda </strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Z3mz5k3wnHc?si=TCOTOgnhBv8INtJc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"Youtube \" target=\"_blank\" class=\"author\" rel=\"noopener\">Javier Econosublime </a>. <span class=\"title\"><em>Movimientos y desplazamientos en la demanda </em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Realiza la siguiente actividad sobre los cambios en la demanda </p>\n<p>En esta actividad vamos a explicar a cómo afectan los siguientes hechos a la curva de demanda (abajo tienes instrucciones y el caso 0 resuelto.</p>\n<p>CASO 0. La gente empieza a tomar más café por recomendación de los médicos. Explica qué ocurre con la demanda de café.</p>\n<p>CASO 1. El diésel está subiendo mucho de precio en los últimos años. Explica qué ocurre con la demanda de coches que utilizan diésel.</p>\n<p>CASO 2. Se ha realizado una fuerte campaña para concienciar a la población de la gran importancia de echarse protector solar a la hora de tomar el sol, pues así se consigue evitar el desarrollo de distintas enfermedades. Explica qué ocurre con la demanda de cremas solares.</p>\n<p>CASO 3. La población está viendo que la economía no va bien, y cree que el país va a sumergirse en una profunda crisis. Explica qué ocurre con la demanda de pisos.</p>\n<p>CASO 4. Una tienda de ropa baja los precios un fin de semana y ve que vende mucho más. Explica qué ocurre con la demanda de ropa.</p>\n<p>CASO 5. Cuando el precio del tren aumenta, la gente usa más el autobús. Explica qué ocurre con la demanda de autobuses.</p>\n<p>CASO 6. En Málaga están abriendo importantes sedes de empresas tecnológicas, lo que está creando numerosos puestos de trabajo, haciendo que mucha gente se mude a esta ciudad tras ser contratada en dichas empresas. Explica qué ocurre con la demanda de viviendas en Málaga.</p>\n<p>CASO 7. Has encontrado un trabajo por horas que te permite duplicar tus ingresos mensuales. Explica qué ocurre con la demanda de patatas, un bien que consideras normal.v</p>\n<p>CASO 8. Has encontrado un trabajo por horas que te permite duplicar tus ingresos mensuales. Explica qué ocurre con la demanda de patatas, un bien que consideras inferior.</p>\n<p> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrsu8-v5oqi2d21</odePageId>
+      <odeBlockId>block-1777876248535-ujuu218vf</odeBlockId>
+      <blockName>Solución caso cero</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsu8-v5oqi2d21</odePageId>
+          <odeBlockId>block-1777876248535-ujuu218vf</odeBlockId>
+          <odeIdeviceId>idevice-1777876248533-oh5zxyjwc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CASO CERO </p>
+<p>I. Determinar cuál ha sido la variable que ha sufrido un cambio (precio, preferencias, renta…).</p>
+<p>II.Establecer si se trata de un movimiento a lo largo de la curva (hacia arriba o hacia abajo) o de un desplazamiento de esta (hacia la derecha o hacia la izquierda). Además, indica qué ocurrirá con la cantidad demandada (aumenta o disminuye).</p>
+<p>III. Representa dicho movimiento/desplazamiento.</p>
+<p>CASO 0: La gente empieza a tomar más café por recomendación de los médicos. Explica qué ocurre con la demanda de café.</p>
+<p>RESPUESTA:</p>
+<p>I. Supone un aumento de las preferencias de los consumidores para tomar café.</p>
+<p>II.Al aumentar las preferencias de los consumidores hacia el café hay un desplazamiento a la derecha de la curva de demanda de café, ya que ahora la gente demandará más café para cada  nivel de precios.<img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 8.31.11.png" width="183" height="146" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777876248533-oh5zxyjwc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CASO CERO </p>\n<p>I. Determinar cuál ha sido la variable que ha sufrido un cambio (precio, preferencias, renta…).</p>\n<p>II.Establecer si se trata de un movimiento a lo largo de la curva (hacia arriba o hacia abajo) o de un desplazamiento de esta (hacia la derecha o hacia la izquierda). Además, indica qué ocurrirá con la cantidad demandada (aumenta o disminuye).</p>\n<p>III. Representa dicho movimiento/desplazamiento.</p>\n<p>CASO 0: La gente empieza a tomar más café por recomendación de los médicos. Explica qué ocurre con la demanda de café.</p>\n<p>RESPUESTA:</p>\n<p>I. Supone un aumento de las preferencias de los consumidores para tomar café.</p>\n<p>II.Al aumentar las preferencias de los consumidores hacia el café hay un desplazamiento a la derecha de la curva de demanda de café, ya que ahora la gente demandará más café para cada  nivel de precios.<img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 8.31.11.png\" width=\"183\" height=\"146\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsub-q30t2uhkh</odePageId>
+  <odeParentPageId>page-morbrsu3-liubtjvmz</odeParentPageId>
+  <pageName>Actividad 2: La oferta.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: La oferta.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: La oferta.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 2: La oferta.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsub-q30t2uhkh</odePageId>
+      <odeBlockId>block-1777567995027-njidpap55</odeBlockId>
+      <blockName>Descripción actividad 2.</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsub-q30t2uhkh</odePageId>
+          <odeBlockId>block-1777567995027-njidpap55</odeBlockId>
+          <odeIdeviceId>idevice-1777567995026-g5uqxnhy1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC0" style="width: 560px;">
+<figcaption class="figcaption header"><strong>Factores que influyen en la oferta </strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/nkoeRUZbBCg?si=-KTjMR1avFGlXz1e" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="Youtube " target="_blank" class="author" rel="noopener">Javier Econosublime </a>. <span class="title"><em>Factores que influyen en la oferta </em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">Actividad colaborativa sobre los cambios en la oferta. Investigación sobre los cambios en la oferta de los productos que suelen usar en su vida habitual. Búsqueda de información en internet y elaboración de un canva  sobre los factores que afecta a la oferta. </p>
+<p style="text-align: justify;">Criterio de evaluación 2.2. Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777567995026-g5uqxnhy1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>Factores que influyen en la oferta </strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/nkoeRUZbBCg?si=-KTjMR1avFGlXz1e\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"Youtube \" target=\"_blank\" class=\"author\" rel=\"noopener\">Javier Econosublime </a>. <span class=\"title\"><em>Factores que influyen en la oferta </em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">Actividad colaborativa sobre los cambios en la oferta. Investigación sobre los cambios en la oferta de los productos que suelen usar en su vida habitual. Búsqueda de información en internet y elaboración de un canva  sobre los factores que afecta a la oferta. </p>\n<p style=\"text-align: justify;\">Criterio de evaluación 2.2. Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsud-g9mn0v0b2</odePageId>
+  <odeParentPageId>page-morbrsub-q30t2uhkh</odeParentPageId>
+  <pageName>Actividad refuerzo (DUA) oferta</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad refuerzo (DUA) oferta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad refuerzo (DUA) oferta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad refuerzo (DUA) oferta</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsud-g9mn0v0b2</odePageId>
+      <odeBlockId>block-1777876403980-3x6pl5qdb</odeBlockId>
+      <blockName>Actividad refuerzo oferta</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsud-g9mn0v0b2</odePageId>
+          <odeBlockId>block-1777876403980-3x6pl5qdb</odeBlockId>
+          <odeIdeviceId>idevice-1777876403978-zx5jw8pce</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC0" style="width: 560px;" id="fig_p2pam1467">
+<figcaption class="figcaption header"><strong>Movimientos y desplazamientos en la oferta </strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/ylRL7hBmCoQ?si=Iu-vaWYRHWr0004b" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="Youtube" target="_blank" class="author" rel="noopener">Javier Econosublime </a>. <span class="title"><em>Movimientos y desplazamientos en la oferta </em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>En esta actividad vamos a explicar a cómo afectan los siguientes hechos a la curva de oferta (abajo tienes instrucciones y el caso 0 resuelto)</p>
+<p> CASO 0 (resuelto abajo). Hay una mejora en la maquinaria con la que se fabrican las chocolatinas. Explica qué ocurre con la oferta de chocolatinas.</p>
+<p>CASO 1. Bajan los costes de extracción del petróleo. Explica qué ocurre con la oferta de gasolina.</p>
+<p>CASO 2. Se prevé que este año la venta de zapatillas Nike Air Force 1 disminuya un 15%. Explica qué ocurre con la oferta de estas zapatillas.</p>
+<p>CASO 3. Imagina que tienes una fábrica de muebles y que el precio de la madera se ha encarecido mucho durante el último año. Explica qué ocurre con la oferta de muebles.</p>
+<p>CASO 4. Eres diseñador gráfico, te dedicas a crear póster y has adquirido un nuevo iPad que te permite crear tus pósters con mucha más fluidez. Explica qué ocurre con la oferta de pósters.</p>
+<p>CASO 5. Una fábrica de coches se estaba centrando en producir coches deportivos, sin embargo, en los últimos años se ha incrementado mucho el precio de venta de los coches todoterrenos. Explica qué ocurrirá con la oferta de todoterrenos.</p>
+<p>CASO 6. Se ha producido un aumento del precio de los alquileres vacacionales en Málaga. Explica qué ocurre con la oferta de alquileres vacacionales.</p>
+<p>CASO 7. Cuando llega el buen tiempo, aumenta la cantidad de vendedores ambulantes de refrescos. Explica qué ocurre con la oferta de refrescos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777876403978-zx5jw8pce","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 560px;\" id=\"fig_p2pam1467\">\n<figcaption class=\"figcaption header\"><strong>Movimientos y desplazamientos en la oferta </strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ylRL7hBmCoQ?si=Iu-vaWYRHWr0004b\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"Youtube\" target=\"_blank\" class=\"author\" rel=\"noopener\">Javier Econosublime </a>. <span class=\"title\"><em>Movimientos y desplazamientos en la oferta </em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>En esta actividad vamos a explicar a cómo afectan los siguientes hechos a la curva de oferta (abajo tienes instrucciones y el caso 0 resuelto)</p>\n<p> CASO 0 (resuelto abajo). Hay una mejora en la maquinaria con la que se fabrican las chocolatinas. Explica qué ocurre con la oferta de chocolatinas.</p>\n<p>CASO 1. Bajan los costes de extracción del petróleo. Explica qué ocurre con la oferta de gasolina.</p>\n<p>CASO 2. Se prevé que este año la venta de zapatillas Nike Air Force 1 disminuya un 15%. Explica qué ocurre con la oferta de estas zapatillas.</p>\n<p>CASO 3. Imagina que tienes una fábrica de muebles y que el precio de la madera se ha encarecido mucho durante el último año. Explica qué ocurre con la oferta de muebles.</p>\n<p>CASO 4. Eres diseñador gráfico, te dedicas a crear póster y has adquirido un nuevo iPad que te permite crear tus pósters con mucha más fluidez. Explica qué ocurre con la oferta de pósters.</p>\n<p>CASO 5. Una fábrica de coches se estaba centrando en producir coches deportivos, sin embargo, en los últimos años se ha incrementado mucho el precio de venta de los coches todoterrenos. Explica qué ocurrirá con la oferta de todoterrenos.</p>\n<p>CASO 6. Se ha producido un aumento del precio de los alquileres vacacionales en Málaga. Explica qué ocurre con la oferta de alquileres vacacionales.</p>\n<p>CASO 7. Cuando llega el buen tiempo, aumenta la cantidad de vendedores ambulantes de refrescos. Explica qué ocurre con la oferta de refrescos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrsud-g9mn0v0b2</odePageId>
+      <odeBlockId>block-1777876445688-4wkgtn9e0</odeBlockId>
+      <blockName>Solución caso cero</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsud-g9mn0v0b2</odePageId>
+          <odeBlockId>block-1777876445688-4wkgtn9e0</odeBlockId>
+          <odeIdeviceId>idevice-1777876445686-n0dbegpit</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Solución: </p>
+<p>1. Determinar cuál ha sido la variable que ha sufrido un cambio (precio, tecnología, expectativas de venta…).</p>
+<p>2. Establecer si se trata de un movimiento a lo largo de la curva (hacia arriba o hacia abajo) o de un desplazamiento de esta (hacia la derecha o hacia la izquierda). Además, indica qué ocurrirá con la cantidad ofertada (aumenta o disminuye).</p>
+<p>3.  Representa dicho movimiento/desplazamiento.</p>
+<p>EJEMPLO: Hay una mejora en la maquinaria con la que se fabrican las chocolatinas. Explica qué ocurre con la oferta de chocolatinas.</p>
+<p>RESPUESTA:</p>
+<p>1. Supone una mejora de la tecnología para producir chocolatinas.</p>
+<p>2. Al mejorar la tecnología con la que se producen las chocolatinas, se produce un desplazamiento a la derecha de la curva de oferta de chocolatinas, ya que ahora las empresas podrán producir más cantidadde chocolatinas que antes.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 8.34.40.png" width="224" height="154" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777876445686-n0dbegpit","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Solución: </p>\n<p>1. Determinar cuál ha sido la variable que ha sufrido un cambio (precio, tecnología, expectativas de venta…).</p>\n<p>2. Establecer si se trata de un movimiento a lo largo de la curva (hacia arriba o hacia abajo) o de un desplazamiento de esta (hacia la derecha o hacia la izquierda). Además, indica qué ocurrirá con la cantidad ofertada (aumenta o disminuye).</p>\n<p>3.  Representa dicho movimiento/desplazamiento.</p>\n<p>EJEMPLO: Hay una mejora en la maquinaria con la que se fabrican las chocolatinas. Explica qué ocurre con la oferta de chocolatinas.</p>\n<p>RESPUESTA:</p>\n<p>1. Supone una mejora de la tecnología para producir chocolatinas.</p>\n<p>2. Al mejorar la tecnología con la que se producen las chocolatinas, se produce un desplazamiento a la derecha de la curva de oferta de chocolatinas, ya que ahora las empresas podrán producir más cantidadde chocolatinas que antes.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 8.34.40.png\" width=\"224\" height=\"154\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsug-wfd9dfg6v</odePageId>
+  <odeParentPageId>page-morbrsu3-liubtjvmz</odeParentPageId>
+  <pageName>Actividad 3: Actividad repaso: oferta y demanda. Movimientos y desplazamientos. </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3: Actividad repaso: oferta y demanda. Movimientos y desplazamientos. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3: Actividad repaso: oferta y demanda. Movimientos y desplazamientos. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsug-wfd9dfg6v</odePageId>
+      <odeBlockId>block-1777567950526-kch0tpy04</odeBlockId>
+      <blockName>Descripción actividad 3.</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsug-wfd9dfg6v</odePageId>
+          <odeBlockId>block-1777567950526-kch0tpy04</odeBlockId>
+          <odeIdeviceId>idevice-1777567950524-pt7k3ipnv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_jbm03ljbm03ljbm0.png" title="Oferta y demanda " width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Esperanza Martín González </span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p>Indica que ocurre en las siguientes situaciones: </p>
+<p>En el mercado del pan, indica de los siguientes titulares extraídos de la prensa a</p>
+<p>qué factor afectan (oferta o demanda) y qué movimiento o desplazamiento produciría en las curvas:</p>
+<p>a) La mala cosecha de trigo anticipa cambios en los precios.</p>
+<p>b) Una nueva amasadora revoluciona la productividad.</p>
+<p>c) El petróleo vuelve a subir de precio.</p>
+<p>d) Aumenta el número de celíacos entre la población.</p>
+<p><br /></p>
+<p><br /></p>
+<p><strong>2.2.</strong> Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777567950524-pt7k3ipnv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_jbm03ljbm03ljbm0.png\" title=\"Oferta y demanda \" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Esperanza Martín González </span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p>Indica que ocurre en las siguientes situaciones: </p>\n<p>En el mercado del pan, indica de los siguientes titulares extraídos de la prensa a</p>\n<p>qué factor afectan (oferta o demanda) y qué movimiento o desplazamiento produciría en las curvas:</p>\n<p>a) La mala cosecha de trigo anticipa cambios en los precios.</p>\n<p>b) Una nueva amasadora revoluciona la productividad.</p>\n<p>c) El petróleo vuelve a subir de precio.</p>\n<p>d) Aumenta el número de celíacos entre la población.</p>\n<p><br /></p>\n<p><br /></p>\n<p><strong>2.2.</strong> Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrsug-wfd9dfg6v</odePageId>
+      <odeBlockId>block-1777976269204-l1giotxgz</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsug-wfd9dfg6v</odePageId>
+          <odeBlockId>block-1777976269204-l1giotxgz</odeBlockId>
+          <odeIdeviceId>idevice-1777976269203-yw7pe6akt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1188px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 8.56.35.png" title="Lista de cotejo " width="1188" height="1020" alt="" />
+<figcaption class="figcaption"><span class="author">Esperanza Martín González </span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777976269203-yw7pe6akt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1188px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 8.56.35.png\" title=\"Lista de cotejo \" width=\"1188\" height=\"1020\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Esperanza Martín González </span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsuj-i072q2gah</odePageId>
+  <odeParentPageId>page-morbrsu3-liubtjvmz</odeParentPageId>
+  <pageName>Actividad 4:  nos vamos de concierto.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4:  nos vamos de concierto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4:  nos vamos de concierto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 4:  nos vamos de concierto.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsuj-i072q2gah</odePageId>
+      <odeBlockId>block-1777568035243-vpkc7agxb</odeBlockId>
+      <blockName>Descripción actividad 4.</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsuj-i072q2gah</odePageId>
+          <odeBlockId>block-1777568035243-vpkc7agxb</odeBlockId>
+          <odeIdeviceId>idevice-1777568035241-r0fim83sf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_6ft4l6ft4l6ft4l6.png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Esperanza Martín González </span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Actividad motivación roleplay:</strong> nos vamos de concierto. Análisis de  la demanda del precio de las entradas de conciertos y cómo afectan las decisiones e influyen diferentes agentes en el precio de los productos.</p>
+<p>Entradas para el concierto de tu cantante favorito:</p>
+<p>Imagina que viene tu cantante favorito a dar un concierto a tu ciudad:</p>
+<p>- ¿Cuánto estarías dispuesto a pagar para asistir a su concierto? (piensa que el dinero tiene que ser tuyo, puedes ahorrarlo, pero no vale decir ¡Mamá cómprame esta entrada!).</p>
+<p>- Imagina que sale una entrada que incluye poder conocer al cantante y estar con el/ella durante media hora. ¿Cuánto estarías dispuesto a pagar por esta entrada? (nuevamente, con tu dinero).</p>
+<p>- Supongamos que en dos semanas es tu cumpleaños, y tú sabes que por tu cumple sueles recibir 100€ de tus padres, 50€ de tu tío, y 50€ más de tu abuela. En este caso, ¿cuánto estarías dispuesto a pagar por el concierto?</p>
+<p> - Imagina que dicho cantante anuncia que el concierto de tu ciudad va a ser el último, pues se retira de la música, ¿cuánto estarías dispuesto a pagar en este caso? Justifica tu respuesta.</p>
+<p>- Supón que habías comprado la entrada pero, finalmente, dicho día no puedes ir al concierto por un asunto muy importante (por ejemplo, que se case tu hermano), y tienes que revender la entrada. Sabiendo que dicha entrada te costó 80€ y que aún quedan entradas a la venta en la web oficial ¿a qué precio revenderías la entrada? ¿y si no quedaran entradas a la venta?</p>
+<p>- Explica qué factores de la oferta y de la demanda te han influido al tomar cada una de las decisiones.</p>
+<p> </p>
+<p>Criterio de evaluación 2.3.: Analizar con espíritu crítico las dimensiones relacionadas con la eficiencia y la equidad asociadas a los fallos del mercado, evaluando sus consecuencias y reflexionando sobre sus posibles soluciones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777568035241-r0fim83sf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_6ft4l6ft4l6ft4l6.png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Esperanza Martín González </span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><strong>Actividad motivación roleplay:</strong> nos vamos de concierto. Análisis de  la demanda del precio de las entradas de conciertos y cómo afectan las decisiones e influyen diferentes agentes en el precio de los productos.</p>\n<p>Entradas para el concierto de tu cantante favorito:</p>\n<p>Imagina que viene tu cantante favorito a dar un concierto a tu ciudad:</p>\n<p>- ¿Cuánto estarías dispuesto a pagar para asistir a su concierto? (piensa que el dinero tiene que ser tuyo, puedes ahorrarlo, pero no vale decir ¡Mamá cómprame esta entrada!).</p>\n<p>- Imagina que sale una entrada que incluye poder conocer al cantante y estar con el/ella durante media hora. ¿Cuánto estarías dispuesto a pagar por esta entrada? (nuevamente, con tu dinero).</p>\n<p>- Supongamos que en dos semanas es tu cumpleaños, y tú sabes que por tu cumple sueles recibir 100€ de tus padres, 50€ de tu tío, y 50€ más de tu abuela. En este caso, ¿cuánto estarías dispuesto a pagar por el concierto?</p>\n<p> - Imagina que dicho cantante anuncia que el concierto de tu ciudad va a ser el último, pues se retira de la música, ¿cuánto estarías dispuesto a pagar en este caso? Justifica tu respuesta.</p>\n<p>- Supón que habías comprado la entrada pero, finalmente, dicho día no puedes ir al concierto por un asunto muy importante (por ejemplo, que se case tu hermano), y tienes que revender la entrada. Sabiendo que dicha entrada te costó 80€ y que aún quedan entradas a la venta en la web oficial ¿a qué precio revenderías la entrada? ¿y si no quedaran entradas a la venta?</p>\n<p>- Explica qué factores de la oferta y de la demanda te han influido al tomar cada una de las decisiones.</p>\n<p> </p>\n<p>Criterio de evaluación 2.3.: Analizar con espíritu crítico las dimensiones relacionadas con la eficiencia y la equidad asociadas a los fallos del mercado, evaluando sus consecuencias y reflexionando sobre sus posibles soluciones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsul-25btjha65</odePageId>
+  <odeParentPageId>page-morbrsu3-liubtjvmz</odeParentPageId>
+  <pageName>Repaso tipo test con Kahoot.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Repaso tipo test con Kahoot.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Repaso tipo test con Kahoot.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsul-25btjha65</odePageId>
+      <odeBlockId>block-1777568357052-o09iu8bax</odeBlockId>
+      <blockName>Kahoot</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsul-25btjha65</odePageId>
+          <odeBlockId>block-1777568357052-o09iu8bax</odeBlockId>
+          <odeIdeviceId>idevice-1777568357049-1ddpnhtl5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Realización por parejas de un tipo test en Kahoot </p>
+<p></p>
+<p style="text-align: justify;">Criterio de evaluación 2.2.: Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777568357049-1ddpnhtl5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Realización por parejas de un tipo test en Kahoot </p>\n<p></p>\n<p style=\"text-align: justify;\">Criterio de evaluación 2.2.: Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morbrsul-25btjha65</odePageId>
+      <odeBlockId>block-1777876050542-7ef7f7cut</odeBlockId>
+      <blockName>Kahoot</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsul-25btjha65</odePageId>
+          <odeBlockId>block-1777876050542-7ef7f7cut</odeBlockId>
+          <odeIdeviceId>idevice-1777876050540-b8dmndkes</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://dashboard.blooket.com/set/646f291cff066995aa63151e" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morbrsun-ujfnubzsg</odePageId>
+  <odeParentPageId>page-morbrsu3-liubtjvmz</odeParentPageId>
+  <pageName>Entregamos el PF</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Entregamos el PF</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Entregamos el PF</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Entregamos el PF</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morbrsun-ujfnubzsg</odePageId>
+      <odeBlockId>block-1777568410955-n5w87h1rv</odeBlockId>
+      <blockName>Entrega PF</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morbrsun-ujfnubzsg</odePageId>
+          <odeBlockId>block-1777568410955-n5w87h1rv</odeBlockId>
+          <odeIdeviceId>idevice-1777568410953-qfgks5i7q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1440px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 16.34.20.png" title="Entregamos el producto final " width="1440" height="718" alt="" />
+<figcaption class="figcaption"><span class="author">Esperanza Martín González</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">Criterio de evaluación 2.2.: Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777568410953-qfgks5i7q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1440px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 16.34.20.png\" title=\"Entregamos el producto final \" width=\"1440\" height=\"718\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Esperanza Martín González</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">Criterio de evaluación 2.2.: Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777912903997-d36tj8xua</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777912903997-d36tj8xua</odePageId>
+      <odeBlockId>block-1777912973092-vio2i1yr0</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777912903997-d36tj8xua</odePageId>
+          <odeBlockId>block-1777912973092-vio2i1yr0</odeBlockId>
+          <odeIdeviceId>idevice-1777912973081-loox4kjcb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Esperanza Martín González </p>
+<p>Descripción: SA 1º Bachillerato Economía </p>
+<p>Licencia de uso: Creative Commons BY-NC-ND 4.0</p>
+<p><a href="exe-package:elp" title="Descargar archivo editable del proyecto " download="exe-package:elp-name">Descargar archivo editable del proyecto </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777912973081-loox4kjcb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Esperanza Martín González </p>\n<p>Descripción: SA 1º Bachillerato Economía </p>\n<p>Licencia de uso: Creative Commons BY-NC-ND 4.0</p>\n<p><a href=\"exe-package:elp\" title=\"Descargar archivo editable del proyecto \" download=\"exe-package:elp-name\">Descargar archivo editable del proyecto </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
